@@ -1,0 +1,16 @@
+# Local test directories
+OtelCloudSpannerReceiverExample/
+opentelemetry-collector-contrib/
+
+# Credentials
+*.json
+service-account-key.json
+.env
+
+# Logs and temp files
+*.log
+*.pid
+*.bak
+
+# OS files
+.DS_Store
