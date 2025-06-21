@@ -1,3 +1,11 @@
+# OTEL Cloud Spanner Receiver - Team Setup
+
+## Quick Start (5 minutes)
+
+1. **Install Docker or Podman**
+   - Mac: `brew install podman`
+   - Linux: `sudo apt install podman`
+
 2. **Run Setup**
    ```bash
    export SPANNER_PROJECT_ID="our-prod-project"
